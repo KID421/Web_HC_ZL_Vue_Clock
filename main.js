@@ -10,8 +10,12 @@ const clock = {
     methods: {
         // 更新時鐘
         updateClock() {
-            
+            var date = new Date();
+            console.log(date);
         }
+    },
+    mounted() {
+        this.updateClock();
     }
 };
 
