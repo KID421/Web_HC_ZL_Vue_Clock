@@ -2,7 +2,15 @@
 const clock = {
     data() {
         return {
-            test: 19
+            h: 99,
+            m: 99,
+            s: 99
+        }
+    },
+    methods: {
+        // 更新時鐘
+        updateClock() {
+            
         }
     }
 };
