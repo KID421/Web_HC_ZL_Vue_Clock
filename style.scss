@@ -3,3 +3,9 @@
     padding: 0;
     font-family: 微軟正黑體;
 }
+
+body {
+    height: 100vh;
+    // 背景：放射狀-漸層(顏色 1，顏色 2)
+    background: radial-gradient(rgb(0, 104, 148), rgb(0, 10, 43));
+}
