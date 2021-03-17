@@ -12,10 +12,10 @@ body {
 
 #clock {
   font-size: 80px;
-  color: #bbccff;
+  color: #aaccff;
   text-align: center;
   margin: 0 auto;
-  text-shadow: 0 0 15px #ddddff;
+  text-shadow: 0 0 10px #3399ff;
   height: 100vh;
   line-height: 100vh;
 }
