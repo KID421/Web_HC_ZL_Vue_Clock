@@ -7,6 +7,16 @@
 
 body {
   height: 100vh;
-  background: radial-gradient(#006894, #000a2b);
+  background: radial-gradient(#2e3453, #080b2b);
+}
+
+#clock {
+  font-size: 80px;
+  color: #bbccff;
+  text-align: center;
+  margin: 0 auto;
+  text-shadow: 0 0 15px #ddddff;
+  height: 100vh;
+  line-height: 100vh;
 }
 /*# sourceMappingURL=style.css.map */

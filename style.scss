@@ -7,5 +7,15 @@
 body {
     height: 100vh;
     // 背景：放射狀-漸層(顏色 1，顏色 2)
-    background: radial-gradient(rgb(0, 104, 148), rgb(0, 10, 43));
+    background: radial-gradient(rgb(46, 52, 83), rgb(8, 11, 43));
+}
+
+#clock {
+    font-size: 80px;
+    color: #bbccff;
+    text-align: center;
+    margin: 0 auto;
+    text-shadow: 0 0 15px #ddddff;
+    height: 100vh;
+    line-height: 100vh;
 }
